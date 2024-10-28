@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Dwivedi</h1>
 <h3 align="center">A passionate coder from India.</h3>
 
-- 🌱 I’m currently learning **DSA in c++ and Web development**
+- 🌱 I’m currently learning **DSA in c++ and Web development(MERN Stack)**
 
 - 📫 How to reach me **pratikdwivedi107@gmail.com**
 
